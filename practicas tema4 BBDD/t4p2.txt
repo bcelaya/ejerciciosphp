@@ -1,0 +1,1 @@
+INSERT INTO `precios` (`id`, `fruta`, `precio_kg`, `temporada`) VALUES ('1', 'Judias', '3.50', 'primavera')
